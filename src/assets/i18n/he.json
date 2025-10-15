@@ -5,7 +5,7 @@
       "SYNC_CONFLICT_TITLE": "סתירה בסינכרון"
     },
     "PERMANENT_NOTIFICATION_MSGS": {
-      "INITIAL": "App running in background to allow for syncing if enabled",
+      "INITIAL": "היישום פועל ברקע לאפשר סינכרון אם מופעל",
       "NO_ACTIVE_TASKS": "אין משימות פעילות",
       "SYNCING": "סינכרון"
     }
@@ -18,11 +18,11 @@
     },
     "B_OFFLINE": "אין חיבור לאינטרנט. הסינכרון ובקשות מידע מספקי סוגיות לא יפעלו.",
     "CONTEXT_MENU": {
-      "CHANGE_BACKGROUND": "Change Background"
+      "CHANGE_BACKGROUND": "שינוי הרקע"
     },
-    "UPDATE_MAIN_MODEL": "Super Productivity has gotten a major update! Some migrations for your data are required. Please note that this renders your data incompatible with older versions of the app.",
+    "UPDATE_MAIN_MODEL": "Super Productivity קיבל עדכון משמעותי! נדרשות מספר המרות לנתונים שלך. יש לציין שהפעולה תביא לכך שהנתונים שלך לא יהיו תואמים לגרסאות ישנות יותר של היישום.",
     "UPDATE_MAIN_MODEL_NO_UPDATE": "No model update chosen. Please note that you either have to downgrade to the last version, if you do not want to perform the model upgrade.",
-    "UPDATE_WEB_APP": "New version available. Load New Version?"
+    "UPDATE_WEB_APP": "גרסה חדשה זמינה. לטעון את הגרסה החדשה?"
   },
   "BN": {
     "SHOW_ISSUE_PANEL": "הצגת לוח הסוגיות (Issue Panel)",
@@ -33,11 +33,11 @@
     "NO_TASKS": "אין משימות בלוח המשימות שלך כעת"
   },
   "CONFIRM": {
-    "AUTO_FIX": "Your data seems to be damaged (\"{{validityError}}\"). Do you want to try to automatically fix it? This might result in partial data loss.",
-    "RELOAD_AFTER_IDB_ERROR": "Cannot access database :( Possible causes are an app update to the app in the background or low disk space. If you installed the app on linux as snap you also want to enable refresh awareness 'snap set core experimental.refresh-app-awareness=true' until they fix this issue on their side. Press OK to reload the app (might require manual restarting the app on some platforms).",
-    "RESTORE_FILE_BACKUP": "There seems to be NO DATA, but there are backups available at \"{{dir}}\". Do you want to restore the latest backup from {{from}}?",
-    "RESTORE_FILE_BACKUP_ANDROID": "There seems to be NO DATA, but there is a backup available. Do you want to load it?",
-    "RESTORE_STRAY_BACKUP": "During last sync there might have been some error. Do you want to restore the last backup?"
+    "AUTO_FIX": "נראה שהנתונים שלך פגועים (\"{{validityError}}\"). האם ברצונך לנסות לתקן אותם אוטומטית? הפעולה עלולה לגרום לאיבוד חלק מהנתונים.",
+    "RELOAD_AFTER_IDB_ERROR": "לא ניתן לגשת למסד הנתונים :( גורמים אפשריים לכך הם עדכון של היישום הפועל ברקע או נפח אחסון נמוך. אם התקנת את היישום ב-linux כ-snap מומלץ גם להפעיל refresh awareness 'snap set core experimental.refresh-app-awareness=true' עד שתתוקן הסוגיה בצד שלהם. ליחצו על OK לטעינה מחדש של היישום (עשויה להידרש הפעלה מחדש ידנית של היישום בחלק מהפלטפורמות).",
+    "RESTORE_FILE_BACKUP": "נראה כי אין בכלל נתונים, אך קיימים גיבויים זמינים ב-\"{{dir}}\". האם ברצונך לשחזר את הגיבוי האחרון מ-{{from}}?",
+    "RESTORE_FILE_BACKUP_ANDROID": "נראה כי אין בכלל נתונים, אך קיים גיבוי זמין. האם ברצונך להעלות אותו?",
+    "RESTORE_STRAY_BACKUP": "בסינכרון האחרון ייתכן שאירעה שגיאה כלשהי. האם ברצונך ךשחזר את הגיבוי האחרון?"
   },
   "DATETIME_SCHEDULE": {
     "LATER_TODAY": "מאוחר יותר היום",
@@ -155,40 +155,40 @@
     },
     "CALENDARS": {
       "BANNER": {
-        "ADD_AS_TASK": "Add as Task",
-        "FOCUS_TASK": "Focus Task",
-        "TXT": "<strong>{{title}}</strong> starts at <strong>{{start}}</strong>!",
-        "TXT_MULTIPLE": "<strong>{{title}}</strong> starts at <strong>{{start}}</strong>!<br> (and {{nrOfOtherBanners}} other events are due)",
-        "TXT_PAST": "<strong>{{title}}</strong> started at <strong>{{start}}</strong>!",
-        "TXT_PAST_MULTIPLE": "<strong>{{title}}</strong> started at <strong>{{start}}</strong>!<br> (and {{nrOfOtherBanners}} other events are due)"
+        "ADD_AS_TASK": "הוספה כמטלה",
+        "FOCUS_TASK": "מטלת מיקוד Focus Task",
+        "TXT": "<strong>{{title}}</strong> מתחילה ב-<strong>{{start}}</strong>!",
+        "TXT_MULTIPLE": "<strong>{{title}}</strong> מתחילה ב-<strong>{{start}}</strong>!<br> (וקיים חוב של {{nrOfOtherBanners}} אירועים אחרים)",
+        "TXT_PAST": "<strong>{{title}}</strong> התחיל ב-<strong>{{start}}</strong>!",
+        "TXT_PAST_MULTIPLE": "<strong>{{title}}</strong> התחיל ב-<strong>{{start}}</strong>!<br> (וקיים חוב של {{nrOfOtherBanners}} אירועים אחרים)"
       },
       "EVENT_STRINGS": {
-        "EVENT_STR": "event",
-        "EVENTS_STR": "events"
+        "EVENT_STR": "אירוע",
+        "EVENTS_STR": "אירועים"
       },
       "S": {
-        "CAL_PROVIDER_ERROR": "Calendar Provider Error: {{errTxt}}"
+        "CAL_PROVIDER_ERROR": "שגיאת ספק לוח-השנה: {{errTxt}}"
       }
     },
     "CONFIG": {
       "S": {
-        "UPDATE_SECTION": "Updated settings for <strong>{{sectionKey}}</strong>"
+        "UPDATE_SECTION": "הגדרות מעודכנות עבור <strong>{{sectionKey}}</strong>"
       }
     },
     "D_RATE": {
-      "A_HOW": "How and where to rate",
-      "BTN_DONT_BOTHER": "Don't bother me again",
-      "TITLE": "🙈 Please forgive us, but...",
-      "TXT": "You would help the project immensely by <strong>giving it a good rating, if you like it!</strong>"
+      "A_HOW": "איך מדרגים והיכן",
+      "BTN_DONT_BOTHER": "אל תשאלו אותי שןב",
+      "TITLE": "🙈 סליחה, אבל...",
+      "TXT": "באפשרותך לסייע רבות לפרויקט באמצעות <strong>דירוג טוב, אם הוא חביב עליך!</strong>"
     },
     "DOMINA_MODE": {
       "FORM": {
-        "HELP": "Repeats the configured phrase every X when tracking time to a task.",
-        "L_INTERVAL": "Interval to repeat phrase",
-        "L_TEXT": "Text",
-        "L_TEXT_DESCRIPTION": "E.g.: \"Work on ${currentTaskTitle}!\"",
-        "L_VOICE": "Select a Voice",
-        "L_VOICE_DESCRIPTION": "Choose a voice",
+        "HELP": "חזרה על הביטוי המוגדר מדי X כאשר מנוהל מעקב זמן למטלה.",
+        "L_INTERVAL": "פרק זמן לחזרת הביטוי",
+        "L_TEXT": "מלל",
+        "L_TEXT_DESCRIPTION": "לדוגמה: \"דרושה עבודה על ${currentTaskTitle}!\"",
+        "L_VOICE": "בחירת קול",
+        "L_VOICE_DESCRIPTION": "יש לבחור קול",
         "TITLE": "Domina Mode"
       }
     },
@@ -205,32 +205,32 @@
     },
     "FINISH_DAY_BEFORE_EXIT": {
       "C": {
-        "FINISH_DAY_BEFORE_EXIT": "There are {{nr}} done tasks in your today list not yet moved to the archive. Do you really want to quit without finishing your day?"
+        "FINISH_DAY_BEFORE_EXIT": "קיימות {{nr}} מטלות שהסתיימו ברשימה שלך להיום שטרם הועברו לארכיב. האם ברצונך לצאת מבלי לסיים את היום שלך?"
       }
     },
     "FOCUS_MODE": {
       "B": {
-        "SESSION_RUNNING": "Focus Session is running",
-        "POMODORO_SESSION_RUNNING": "Pomodoro Session #{{cycleNr}} is running",
-        "BREAK_RUNNING": "Break is running",
-        "POMODORO_BREAK_RUNNING": "Break #{{cycleNr}} is running",
-        "TO_FOCUS_OVERLAY": "To Focus Overlay"
+        "SESSION_RUNNING": "מצב ממוקד מופעל",
+        "POMODORO_SESSION_RUNNING": "מופע פומודורו #{{cycleNr}} מופעל",
+        "BREAK_RUNNING": "הפסקה מופעלת",
+        "POMODORO_BREAK_RUNNING": "הפסקה #{{cycleNr}} מופעלת",
+        "TO_FOCUS_OVERLAY": "לשכבת המיקוד"
       },
-      "BACK_TO_PLANNING": "Back to Planning",
-      "CONGRATS": "Congrats for completing this session!",
-      "COUNTDOWN": "Countdown",
-      "FINISH_TASK_AND_SELECT_NEXT": "Finish task and select next",
-      "FLOWTIME": "Flowtime",
-      "FOR_TASK": "for task",
-      "GET_READY": "Get ready for your focus session!",
-      "GO_TO_PROCRASTINATION": "Get help, when procrastinating",
-      "GOGOGO": "Go, go, go!!!",
-      "NEXT": "Next",
+      "BACK_TO_PLANNING": "חזרה לתכנון",
+      "CONGRATS": "ברכות על השלמת מופע זה!",
+      "COUNTDOWN": "ספירה לאחור",
+      "FINISH_TASK_AND_SELECT_NEXT": "סיום המטלה ובחירת הבאה",
+      "FLOWTIME": "שטף-זמן",
+      "FOR_TASK": "למטלה",
+      "GET_READY": "התכוננו למופע המיקוד שלכם!",
+      "GO_TO_PROCRASTINATION": "קבלו עזרה, בזמן דחיינות",
+      "GOGOGO": "קדימה, קדימה, קדימה!!!",
+      "NEXT": "הבא",
       "ON": "on",
-      "OPEN_ISSUE_IN_BROWSER": "Open issue in Browser",
-      "POMODORO": "Pomodoro",
-      "POMODORO_BACK": "Back",
-      "POMODORO_DISABLE": "Disable Pomodoro",
+      "OPEN_ISSUE_IN_BROWSER": "פתיחת הסוגיה בדפדפן",
+      "POMODORO": "פומודורו",
+      "POMODORO_BACK": "חזרה",
+      "POMODORO_DISABLE": "השבתת פומודורו",
       "POMODORO_INFO": "Focus sessions cannot be used together with the pomodoro timer enabled.",
       "PREP_GET_MENTALLY_READY": "Get mentally ready to be focused and productive",
       "PREP_SIT_UPRIGHT": "Sit (or stand) upright",
