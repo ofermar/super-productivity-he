@@ -5,7 +5,7 @@
       "SYNC_CONFLICT_TITLE": "סתירה בסינכרון"
     },
     "PERMANENT_NOTIFICATION_MSGS": {
-      "INITIAL": "App running in background to allow for syncing if enabled",
+      "INITIAL": "היישום פועל ברקע כדי לאפשר סינכרון, אם מופעל",
       "NO_ACTIVE_TASKS": "אין משימות פעילות",
       "SYNCING": "סינכרון"
     }
@@ -18,11 +18,11 @@
     },
     "B_OFFLINE": "אין חיבור לאינטרנט. הסינכרון ובקשות מידע מספקי סוגיות לא יפעלו.",
     "CONTEXT_MENU": {
-      "CHANGE_BACKGROUND": "Change Background"
+      "CHANGE_BACKGROUND": "שינוי הרקע"
     },
-    "UPDATE_MAIN_MODEL": "Super Productivity has gotten a major update! Some migrations for your data are required. Please note that this renders your data incompatible with older versions of the app.",
+    "UPDATE_MAIN_MODEL": "היישום Super Productivity קיבל עדכון מהותי! נדרשות מספר המרות לנתונים שלך. שימו לב שהפעולה תביא לכך שהנתונים שלך לא יהיו מותאמים לגרסאות ישנות יותר של היישום.",
     "UPDATE_MAIN_MODEL_NO_UPDATE": "No model update chosen. Please note that you either have to downgrade to the last version, if you do not want to perform the model upgrade.",
-    "UPDATE_WEB_APP": "New version available. Load New Version?"
+    "UPDATE_WEB_APP": "גרסה חדשה זמינה. לטעון את הגרסה החדשה?"
   },
   "BN": {
     "SHOW_ISSUE_PANEL": "הצגת לוח הסוגיות (Issue Panel)",
@@ -33,11 +33,11 @@
     "NO_TASKS": "אין משימות בלוח המשימות שלך כעת"
   },
   "CONFIRM": {
-    "AUTO_FIX": "Your data seems to be damaged (\"{{validityError}}\"). Do you want to try to automatically fix it? This might result in partial data loss.",
-    "RELOAD_AFTER_IDB_ERROR": "Cannot access database :( Possible causes are an app update to the app in the background or low disk space. If you installed the app on linux as snap you also want to enable refresh awareness 'snap set core experimental.refresh-app-awareness=true' until they fix this issue on their side. Press OK to reload the app (might require manual restarting the app on some platforms).",
-    "RESTORE_FILE_BACKUP": "There seems to be NO DATA, but there are backups available at \"{{dir}}\". Do you want to restore the latest backup from {{from}}?",
-    "RESTORE_FILE_BACKUP_ANDROID": "There seems to be NO DATA, but there is a backup available. Do you want to load it?",
-    "RESTORE_STRAY_BACKUP": "During last sync there might have been some error. Do you want to restore the last backup?"
+    "AUTO_FIX": "נראה שהנתונים שלך פגומים (\"{{validityError}}\"). האם ברצונך לנסות לתקן אותם אוטומטית? הדבר עלול לגרום לאיבוד חלק מהנתונים.",
+    "RELOAD_AFTER_IDB_ERROR": "-לא ניתן לגשת למסד הנתונים :( גורמים אפשריים לכך הם עדכון יישום ליישום הפועל ברקע או נפח אחסון מועט. אם התקנת את היישום בlinux כ-snap מומלץ גם להפעיל תודעת עדכון 'snap set core experimental.refresh-app-awareness=true' עד שתתוקן סוגיה זו בצד שלהם. ליחצו על OK לטעינה מחדש של היישום (עשויה להידרש הפעלה מחדש ידנית של היישום בחלק מהפלטפורמות).",
+    "RESTORE_FILE_BACKUP": "נראה כי אין כלל נתונים, אבל קיימים גיבויים זמינים ב-\"{{dir}}\". האם ברצונך לשחזר את הגיבוי האחרון מ-{{from}}?",
+    "RESTORE_FILE_BACKUP_ANDROID": "נראה כי אין כלל נתונים, אבל קיים גיבוי זמין. האם ברצונך לטעון אותו?",
+    "RESTORE_STRAY_BACKUP": "במהלך הסינכרון האחרון ייתכן ואירעה שגיאה כלשהי. האם ברצונך לשחזר את הגיבוי האחרון?"
   },
   "DATETIME_SCHEDULE": {
     "LATER_TODAY": "מאוחר יותר היום",
