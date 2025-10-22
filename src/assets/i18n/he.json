@@ -116,15 +116,15 @@
         "TITLE": "הגדרת CalDav לפרויקט"
       },
       "FORM": {
-        "CALDAV_CATEGORY_FILTER": "Category to filter issues for (leave empty for none)",
-        "CALDAV_PASSWORD": "Your CalDav password",
-        "CALDAV_RESOURCE": "The name of the CalDav resource (the calendar)",
-        "CALDAV_URL": "CalDav URL (the base URL)",
-        "CALDAV_USER": "Your CalDav username",
-        "IS_TRANSITION_ISSUES_ENABLED": "Automatically complete CalDav todos on task completion"
+        "CALDAV_CATEGORY_FILTER": "קטגוריה לסינון סוגיות עבור (השאירו ריק עבור אף לא אחד)",
+        "CALDAV_PASSWORD": "סיסמת CalDav שלך",
+        "CALDAV_RESOURCE": "שם משאב ה-CalDav (לוח השנה)",
+        "CALDAV_URL": "CalDav URL (ה-URL הראשי)",
+        "CALDAV_USER": "שם משתמש ה-CalDav שלך",
+        "IS_TRANSITION_ISSUES_ENABLED": "השלמה אוטומטית של מטלות CalDav בסיום מטלה"
       },
       "FORM_SECTION": {
-        "HELP": "<p>Here you can configure SuperProductivity to list uncompleted CalDav todos for a specific project in the task creation panel in the daily planning view. They will be listed as suggestions and will provide a link to the todo as well as more information about it.</p> <p>In addition you can automatically add and sync all uncompleted todos to your task backlog.</p><p>To make it work for nextcloud in the webapp, you might need to whitelist \"https://app.super-productivity.com\" via the nextcloud app <a href='https://apps.nextcloud.com/apps/webapppassword'>webapppassword<a>.</p>",
+        "HELP": "<p>כאן ניתן להגדיר את SuperProductivity להציג רשימת מטלות CalDav שלא הושלמו עבור פרויקט מוגדר בחלונית יצירת המטלות בתצוגת התכנון היומית. הן יוצגו כהצעות ויספקו קישור למטלה וכן מידע נוסף עליה.</p> <p>בנוסף, באפשרותך להוסיף ולסנכרן באופן אוטומטי את כל המטלות שלא הושלמו לצבר המטלות שלכם.</p><p>כדי שזה יעבוד עבור nextcloud באפליקציית האינטרנט, ייתכן שתצטרכו להוסיף לרשימת ההיתרים (Whitelist) את \"https://app.super-productivity.com\" דרך אפליקציית nextcloud <a href='https://apps.nextcloud.com/apps/webapppassword'>webapppassword<a>.</p>",
         "TITLE": "CalDav"
       },
       "ISSUE_CONTENT": {
