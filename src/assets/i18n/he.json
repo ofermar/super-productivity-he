@@ -47,11 +47,11 @@
     "TOMORROW": "מחר"
   },
   "DIALOG_UNSPLASH_PICKER": {
-    "TITLE": "Select Background Image from Unsplash",
-    "SEARCH_LABEL": "Search images",
-    "SEARCH_PLACEHOLDER": "e.g., nature, mountains, abstract",
-    "NO_RESULTS": "No images found. Try a different search term.",
-    "BY": "by"
+    "TITLE": "בחירת רקע מ-Unsplash",
+    "SEARCH_LABEL": "חיפוש תמונות",
+    "SEARCH_PLACEHOLDER": "לדוגמה: טבע, הרים, מופשט",
+    "NO_RESULTS": "לא נמצאו תמונות. נסו ביטוי חיפוש שונה.",
+    "BY": "מאת"
   },
   "F": {
     "ATTACHMENT": {
@@ -148,31 +148,31 @@
         "WRITE_A_COMMENT": "כתיבת הערה"
       },
       "S": {
-        "CALENDAR_NOT_FOUND": "CalDav: Calendar \"{{calendarName}}\" not found",
-        "CALENDAR_READ_ONLY": "CalDav: Calendar \"{{calendarName}}\" is readonly",
-        "ISSUE_NOT_FOUND": "CalDav: Todo \"{{issueId}}\" seems to be deleted on server."
+        "CALENDAR_NOT_FOUND": "CalDav: היומן \"{{calendarName}}\" לא נמצא",
+        "CALENDAR_READ_ONLY": "CalDav: היומן \"{{calendarName}}\" לצפייה בלבד",
+        "ISSUE_NOT_FOUND": "CalDav: המטלה \"{{issueId}}\" נמחקה בשרת."
       }
     },
     "CALENDARS": {
       "BANNER": {
-        "ADD_AS_TASK": "Add as Task",
-        "FOCUS_TASK": "Focus Task",
-        "TXT": "<strong>{{title}}</strong> starts at <strong>{{start}}</strong>!",
-        "TXT_MULTIPLE": "<strong>{{title}}</strong> starts at <strong>{{start}}</strong>!<br> (and {{nrOfOtherBanners}} other events are due)",
-        "TXT_PAST": "<strong>{{title}}</strong> started at <strong>{{start}}</strong>!",
-        "TXT_PAST_MULTIPLE": "<strong>{{title}}</strong> started at <strong>{{start}}</strong>!<br> (and {{nrOfOtherBanners}} other events are due)"
+        "ADD_AS_TASK": "הוספה כמטלה",
+        "FOCUS_TASK": "מטלת מיקוד",
+        "TXT": "<strong>{{title}}</strong> מתחילה ב-<strong>{{start}}</strong>!",
+        "TXT_MULTIPLE": "<strong>{{title}}</strong> מתחילה ב-<strong>{{start}}</strong>!<br> (וגם {{nrOfOtherBanners}} אירועים נוספים על הפרק)",
+        "TXT_PAST": "<strong>{{title}}</strong> החלה ב-<strong>{{start}}</strong>!",
+        "TXT_PAST_MULTIPLE": "<strong>{{title}}</strong> החלה ב-<strong>{{start}}</strong>!<br> (וגם {{nrOfOtherBanners}} אירועים נוספים על הפרק)"
       },
       "EVENT_STRINGS": {
-        "EVENT_STR": "event",
-        "EVENTS_STR": "events"
+        "EVENT_STR": "אירוע",
+        "EVENTS_STR": "אירועים"
       },
       "S": {
-        "CAL_PROVIDER_ERROR": "Calendar Provider Error: {{errTxt}}"
+        "CAL_PROVIDER_ERROR": "שגיאת ספק היומן: {{errTxt}}"
       }
     },
     "CONFIG": {
       "S": {
-        "UPDATE_SECTION": "Updated settings for <strong>{{sectionKey}}</strong>"
+        "UPDATE_SECTION": "הגדרות מעודכנות עבור <strong>{{sectionKey}}</strong>"
       }
     },
     "D_RATE": {
