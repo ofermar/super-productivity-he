@@ -176,36 +176,36 @@
       }
     },
     "D_RATE": {
-      "A_HOW": "How and where to rate",
-      "BTN_DONT_BOTHER": "Don't bother me again",
-      "TITLE": "🙈 Please forgive us, but...",
-      "TXT": "You would help the project immensely by <strong>giving it a good rating, if you like it!</strong>"
+      "A_HOW": "איך לדרג והיכן",
+      "BTN_DONT_BOTHER": "לא להציק לי שוב",
+      "TITLE": "🙈 בבקשה סילחו לנו, אבל...",
+      "TXT": "באפשרותך לעזור רבות לפרויקט על-ידי <strong>דירוגו בדירוג טוב, אם הוא חביב עליך!</strong>"
     },
     "DOMINA_MODE": {
       "FORM": {
-        "HELP": "Repeats the configured phrase every X when tracking time to a task.",
-        "L_INTERVAL": "Interval to repeat phrase",
-        "L_TEXT": "Text",
-        "L_TEXT_DESCRIPTION": "E.g.: \"Work on ${currentTaskTitle}!\"",
-        "L_VOICE": "Select a Voice",
-        "L_VOICE_DESCRIPTION": "Choose a voice",
-        "TITLE": "Domina Mode"
+        "HELP": "חזרה על הביטוי המוגדר מדי X כאשר מנוהל מעקב-זמן למטלה.",
+        "L_INTERVAL": "משך זמן ההפסקה לחזרה על הביטוי",
+        "L_TEXT": "מלל",
+        "L_TEXT_DESCRIPTION": "לדוגמה: \"עיבדו על ${currentTaskTitle}!\"",
+        "L_VOICE": "בחירת קול",
+        "L_VOICE_DESCRIPTION": "ביחרו קול",
+        "TITLE": "מצב Domina"
       }
     },
     "DROPBOX": {
       "S": {
-        "ACCESS_TOKEN_ERROR": "Dropbox: Unable to generate Access Token from Auth Code",
-        "ACCESS_TOKEN_GENERATED": "Dropbox: Access Token generated from Auth Code",
-        "AUTH_ERROR": "Dropbox: Invalid access token provided",
-        "AUTH_ERROR_ACTION": "Change Token",
-        "OFFLINE": "Dropbox: Unable to sync, because offline",
-        "SYNC_ERROR": "Dropbox: Error while syncing",
-        "UNABLE_TO_GENERATE_PKCE_CHALLENGE": "Dropbox: Unable to generate PKCE challenge."
+        "ACCESS_TOKEN_ERROR": "Dropbox: לא ניתן לחולל אסימון גישה מקוד אימות",
+        "ACCESS_TOKEN_GENERATED": "Dropbox: אסימון גישה נוצר מקוד אימות",
+        "AUTH_ERROR": "Dropbox: סופק אסימון גישה בלתי תקף",
+        "AUTH_ERROR_ACTION": "החלפת האסימון",
+        "OFFLINE": "Dropbox: לא ניתן לסנכרן, משום שאינך במצב מקוון",
+        "SYNC_ERROR": "Dropbox: שגיאה במהלך הסינכרון",
+        "UNABLE_TO_GENERATE_PKCE_CHALLENGE": "Dropbox: לא ניתן לחולל בקשת הזדהות PKCE."
       }
     },
     "FINISH_DAY_BEFORE_EXIT": {
       "C": {
-        "FINISH_DAY_BEFORE_EXIT": "There are {{nr}} done tasks in your today list not yet moved to the archive. Do you really want to quit without finishing your day?"
+        "FINISH_DAY_BEFORE_EXIT": "ישנן {{nr}} מטלות שהושלמו ברשימת 'היום' שלך שטרם הועברו לארכיב. האם ברצונך לצאת מבלי לסיים את היום שלך?"
       }
     },
     "FOCUS_MODE": {
