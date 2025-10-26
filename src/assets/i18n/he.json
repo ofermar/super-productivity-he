@@ -241,24 +241,24 @@
       "POMODORO_SESSION_COMPLETED": "מושב ה-Pomodoro הושלם!",
       "SET_FOCUS_SESSION_DURATION": "הגדרת משך מושב המיקוד",
       "SHOW_HIDE_NOTES_AND_ATTACHMENTS": "הצגה/הסתרה של הערות המטלה והצרופות",
-      "START_FOCUS_SESSION": "Start Focus Session",
-      "START_NEXT_FOCUS_SESSION": "Start next Focus Session",
-      "WORKED_FOR": "You worked for",
-      "BREAK_RELAX_MSG": "Take a moment to relax",
-      "SKIP_BREAK": "Skip Break",
-      "CONTINUE_TO_NEXT_SESSION": "Continue to next Session",
-      "FOCUS_TIME_TOOLTIP": "Focus time",
-      "CURRENT_SESSION_TIME_TOOLTIP": "Current session time",
-      "COMPLETE_SESSION": "Complete Session",
-      "CONTINUE_SESSION": "Continue Session",
-      "LONG_BREAK": "Long Break",
-      "SHORT_BREAK": "Short Break",
-      "LONG_BREAK_TITLE": "Long Break - Cycle {{cycle}}",
-      "SHORT_BREAK_TITLE": "Short Break - Cycle {{cycle}}"
+      "START_FOCUS_SESSION": "התחלת מושב מיקוד",
+      "START_NEXT_FOCUS_SESSION": "התחלת מושב המיקוד הבא",
+      "WORKED_FOR": "עבדת במשך",
+      "BREAK_RELAX_MSG": "קחו רגע להירגעות",
+      "SKIP_BREAK": "דילוג על ההפסקה",
+      "CONTINUE_TO_NEXT_SESSION": "המשך למושב הבא",
+      "FOCUS_TIME_TOOLTIP": "משך המיקוד",
+      "CURRENT_SESSION_TIME_TOOLTIP": "משך המושב הנוכחי",
+      "COMPLETE_SESSION": "השלמת המושב",
+      "CONTINUE_SESSION": "המשך המושב",
+      "LONG_BREAK": "הפסקה ארוכה",
+      "SHORT_BREAK": "הפסקה קצרה",
+      "LONG_BREAK_TITLE": "הפסקה ארוכה - מחזור {{cycle}}",
+      "SHORT_BREAK_TITLE": "הפסקה קצרה - מחזור {{cycle}}"
     },
     "GITEA": {
       "DIALOG_INITIAL": {
-        "TITLE": "Setup Gitea for Project"
+        "TITLE": "הגדרת Gitea לפרויקט"
       },
       "FORM": {
         "FILTER_USER": "Username (e.g. to filter out changes by yourself)",
