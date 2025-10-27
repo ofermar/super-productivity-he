@@ -272,7 +272,7 @@
         "TOKEN": "אסימון גישה (Access Token)"
       },
       "FORM_SECTION": {
-        "HELP": "<p>כאן באפשרותך ךהגדיר את SuperProductivity להציג רשימת סוגיות פתוחות של Gitea עבור מאגר מסויים בלוח יצירת המטלות שבתצוגת התכנון היומי. הן יסווגו כהצעות ויכללו קישור לסוגיה וכן מידע נוסף אודותיה.</p> <p>בנוסף לכך באפשרותך להוסיף ולייבא אוטומטית את כל הסוגיות הפתוחות.</p><p>לקבלת מגבלות השימוש והגישהבאפשרותך לספק אסימון גשיה (access token).",
+        "HELP": "<p>כאן באפשרותך להגדיר את SuperProductivity להציג רשימת סוגיות פתוחות של Gitea עבור מאגר מסויים בלוח יצירת המטלות שבתצוגת התכנון היומי. הן יסווגו כהצעות ויכללו קישור לסוגיה וכן מידע נוסף אודותיה.</p> <p>בנוסף לכך באפשרותך להוסיף ולייבא אוטומטית את כל הסוגיות הפתוחות.</p><p>לקבלת הרשאות השימוש והגישה באפשרותך לספק אסימון גישה (access token).",
         "TITLE": "Gitea"
       },
       "ISSUE_CONTENT": {
@@ -299,28 +299,28 @@
         "INVALID_TOKEN_MESSAGE": "זה איננו אסימון גישה תקין ל-GitHub. הוא חייב להתחיל ב-\"ghp_\".",
         "IS_ASSIGNEE_FILTER": "ייבוא סוגיות המוטלות עליי בלבד לצבר המטלות",
         "REPO": "username/repositoryName",
-        "TOKEN": "Access Token"
+        "TOKEN": "אסימון גישה (Access Token)"
       },
       "FORM_SECTION": {
-        "HELP": "<p>Here you can configure SuperProductivity to list open GitHub issues for a specific repository in the task creation panel in the daily planning view. They will be listed as suggestions and will provide a link to the issue as well as more information about it.</p> <p>In addition you can automatically import all open issues.</p><p>To get by usage limits and to access you can provide a an access token. <a href='https://docs.github.com/en/free-pro-team@latest/developers/apps/scopes-for-oauth-apps'>More info about its scopes can be found here</a>.",
+        "HELP": "<p>כאן באפשרותך להגדיר את SuperProductivity להציג רשימה של סוגיות פתוחות של GitHub למאגר מסויים בלוח יצירת מטלות שבתצוגת התכנון היומי. הן יוצגו כהצעות ויכללו קישור לסוגיה וכן מידע נוסף אודותיה.</p> <p>בנוסף לכך באפשרותך להוסיף ולייבא אוטומטית את כל הסוגיות הפתוחות.</p><p>לקבלת הרשאות השימוש והגישה באפשרותך לספק אסימון גישה (access token). <a href='https://docs.github.com/en/free-pro-team@latest/developers/apps/scopes-for-oauth-apps'>מידע נוסף על ה-scopes זמין כאן</a>.",
         "TITLE": "GitHub"
       },
       "ISSUE_CONTENT": {
-        "ASSIGNEE": "Assignee",
-        "AT": "at",
-        "DESCRIPTION": "Description",
-        "LABELS": "Labels",
-        "LAST_COMMENT": "Last comment",
-        "LOAD_ALL_COMMENTS": "Load all {{nr}} comments",
-        "LOAD_DESCRIPTION_AND_ALL_COMMENTS": "Load description & all comments",
-        "MARK_AS_CHECKED": "Mark updates as checked",
-        "STATUS": "Status",
-        "SUMMARY": "Summary",
-        "WRITE_A_COMMENT": "Write a comment"
+        "ASSIGNEE": "ממונה",
+        "AT": "ב-",
+        "DESCRIPTION": "תיאור",
+        "LABELS": "תגיות",
+        "LAST_COMMENT": "ההערה האחרונה",
+        "LOAD_ALL_COMMENTS": "טעינת כל {{nr}} ההערות",
+        "LOAD_DESCRIPTION_AND_ALL_COMMENTS": "טעינת התיאור וכל ההערות",
+        "MARK_AS_CHECKED": "סימון עדכונים כמבוצעים",
+        "STATUS": "סטטוס",
+        "SUMMARY": "סיכום",
+        "WRITE_A_COMMENT": "כתיבת הערה"
       },
       "S": {
-        "CONFIG_ERROR": "GitHub: Error while mapping data. Is your repository name correct?",
-        "ERR_UNKNOWN": "GitHub: Unknown error {{statusCode}} {{errorMsg}}. Api Rate limit exceeded?"
+        "CONFIG_ERROR": "GitHub: שגיאה במהלך מיפוי הנתונים. האם ששם המאגר נכון?",
+        "ERR_UNKNOWN": "GitHub: שגיאה לא-ידועה {{statusCode}} {{errorMsg}}. ייתכן שהגעת למגבלת קצב ה-Api?"
       }
     },
     "GITLAB": {
