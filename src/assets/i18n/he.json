@@ -325,34 +325,34 @@
     },
     "GITLAB": {
       "DIALOG_INITIAL": {
-        "TITLE": "Setup GitLab for Project"
+        "TITLE": "הגדרת GitLab לפרויקט"
       },
       "DIALOG_SUBMIT_WORKLOG": {
-        "PAST_DAY_INFO": "The prefilled duration contains untracked data from past days.",
-        "T_ALREADY_TRACKED": "Already Tracked",
-        "T_TITLE": "Title",
-        "T_TO_BE_SUBMITTED": "To be submitted",
-        "TITLE": "Submit Time Spent on Issues to GitLab",
-        "TOTAL_MSG": "You will submit <em>{{totalTimeToSubmit}}</em> work time for today in total to <em>{{nrOfTasksToSubmit}}</em> different issues."
+        "PAST_DAY_INFO": "משך הזמן המשמש כברירת-מחדל כולל נתונים שלא נעקבו מימים שעברו.",
+        "T_ALREADY_TRACKED": "כבר במעקב",
+        "T_TITLE": "כותרת",
+        "T_TO_BE_SUBMITTED": "לשליחה",
+        "TITLE": "שליחת הזמן שהוקדש לסוגיות אל GitLab",
+        "TOTAL_MSG": "יישלח זמן כולל של <em>{{totalTimeToSubmit}}</em> של היום אל <em>{{nrOfTasksToSubmit}}</em> סוגיות שונות."
       },
       "FORM": {
-        "FILTER": "Custom Filter",
-        "FILTER_DESCRIPTION": "See https://docs.gitlab.com/ee/api/issues.html#list-issues. Multiple can be combined by &",
-        "FILTER_USER": "Filter username",
-        "GITLAB_BASE_URL": "Custom GitLab base URL (optional)",
-        "PROJECT": "user name/project",
-        "PROJECT_HINT": "e.g. johannesjo/super-productivity",
-        "SCOPE": "Scope",
-        "SCOPE_ALL": "All",
-        "SCOPE_ASSIGNED": "Assigned to me",
-        "SCOPE_CREATED": "Created by me",
-        "SOURCE": "Source",
-        "SOURCE_GLOBAL": "All",
-        "SOURCE_GROUP": "Group",
-        "SOURCE_PROJECT": "Project",
-        "SUBMIT_TIMELOGS": "Submit timelogs to Gitlab",
-        "SUBMIT_TIMELOGS_DESCRIPTION": "Show Time Tracking Dialog after clicking on finish day",
-        "TOKEN": "Access Token"
+        "FILTER": "סינון מותאם",
+        "FILTER_DESCRIPTION": "ראו https://docs.gitlab.com/ee/api/issues.html#list-issues. ניתן לשלב כמה על-ידי &",
+        "FILTER_USER": "סינון שם משתמש",
+        "GITLAB_BASE_URL": "כתובת URL מותאמת של בסיס GitLab (אופציונלי)",
+        "PROJECT": "שם משתמש/פרויקט",
+        "PROJECT_HINT": "לדוגמה: johannesjo/super-productivity",
+        "SCOPE": "היקף",
+        "SCOPE_ALL": "הכל",
+        "SCOPE_ASSIGNED": "מוטלות עליי",
+        "SCOPE_CREATED": "נוצרו על-ידי",
+        "SOURCE": "מקור",
+        "SOURCE_GLOBAL": "הכל",
+        "SOURCE_GROUP": "קבוצה",
+        "SOURCE_PROJECT": "פרויקט",
+        "SUBMIT_TIMELOGS": "הגשת יוני רישום (timelogs) אל Gitlab",
+        "SUBMIT_TIMELOGS_DESCRIPTION": "הצגת דו-שיח מעקב הזמן לאחר הלחיצה על סיום היום",
+        "TOKEN": "אסימון גישה (Access Token)"
       },
       "FORM_SECTION": {
         "HELP": "<p>Here you can configure SuperProductivity to list open GitLab (either its the online version or a self-hosted instance) issues for a specific project in the task creation panel in the daily planning view. They will be listed as suggestions and will provide a link to the issue as well as more information about it.</p> <p>In addition you can automatically import all open issues.</p>",
