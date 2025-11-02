@@ -355,22 +355,22 @@
         "TOKEN": "אסימון גישה (Access Token)"
       },
       "FORM_SECTION": {
-        "HELP": "<p>Here you can configure SuperProductivity to list open GitLab (either its the online version or a self-hosted instance) issues for a specific project in the task creation panel in the daily planning view. They will be listed as suggestions and will provide a link to the issue as well as more information about it.</p> <p>In addition you can automatically import all open issues.</p>",
+        "HELP": "<p>כאן באפשרותך להגדיר את SuperProductivity להציג רשימה של סוגיות פתוחות של GitLab (בגרסה המקוונת או בגרסה מותקנת-מקומית) לפרויקט מוגדר בלוח יצירת מטלות שבתצוגת התכנון היומי. הן יוצגו כהצעות ויכללו קישור לסוגיה וכן מידע נוסף אודותיה.</p> <p>בנוסף לכך באפשרותך לייבא אוטומטית את כל הסוגיות הפתוחות.</p>,
         "TITLE": "GitLab"
       },
       "ISSUE_CONTENT": {
-        "ASSIGNEE": "Assignee",
-        "AT": "at",
-        "DESCRIPTION": "Description",
-        "LABELS": "Labels",
-        "MARK_AS_CHECKED": "Mark updates as checked",
-        "PROJECT": "Project",
-        "STATUS": "Status",
-        "SUMMARY": "Summary",
-        "WRITE_A_COMMENT": "Write a comment"
+        "ASSIGNEE": "ממונה",
+        "AT": "ב-",
+        "DESCRIPTION": "תיאור",
+        "LABELS": "תגיות",
+        "MARK_AS_CHECKED": "סימון עדכונים כמבוצעים",
+        "PROJECT": "פרויקט",
+        "STATUS": "סטטוס",
+        "SUMMARY": "סיכום",
+        "WRITE_A_COMMENT": "כתיבת הערה"
       },
       "S": {
-        "ERR_UNKNOWN": "GitLab: Unknown error {{statusCode}} {{errorMsg}}"
+        "ERR_UNKNOWN": "GitLab: שגיאה בלתי-ידועה {{statusCode}} {{errorMsg}}"
       }
     },
     "ISSUE": {
