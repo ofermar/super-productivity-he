@@ -355,7 +355,7 @@
         "TOKEN": "אסימון גישה (Access Token)"
       },
       "FORM_SECTION": {
-        "HELP": "<p>כאן באפשרותך להגדיר את SuperProductivity להציג רשימה של סוגיות פתוחות של GitLab (בגרסה המקוונת או בגרסה מותקנת-מקומית) לפרויקט מוגדר בלוח יצירת מטלות שבתצוגת התכנון היומי. הן יוצגו כהצעות ויכללו קישור לסוגיה וכן מידע נוסף אודותיה.</p> <p>בנוסף לכך באפשרותך לייבא אוטומטית את כל הסוגיות הפתוחות.</p>,
+        "HELP": "<p>כאן באפשרותך להגדיר את SuperProductivity להציג רשימה של סוגיות פתוחות של GitLab (בגרסה המקוונת או בגרסה מותקנת-מקומית) לפרויקט מוגדר בלוח יצירת מטלות שבתצוגת התכנון היומי. הן יוצגו כהצעות ויכללו קישור לסוגיה וכן מידע נוסף אודותיה.</p> <p>בנוסף לכך באפשרותך לייבא אוטומטית את כל הסוגיות הפתוחות.</p>",
         "TITLE": "GitLab"
       },
       "ISSUE_CONTENT": {
@@ -416,20 +416,20 @@
         "WRITE_A_COMMENT": "כתיבת הערה"
       },
       "S": {
-        "ERR_GENERIC": "{{issueProviderName}} Error: {{errTxt}}",
-        "ERR_NETWORK": "{{issueProviderName}}: Request failed because of a client side network error",
-        "ERR_NOT_CONFIGURED": "{{issueProviderName}}: Not properly configured",
-        "IMPORTED_MULTIPLE_ISSUES": "{{issueProviderName}}: Imported {{nr}} new {{issuesStr}}",
-        "IMPORTED_SINGLE_ISSUE": "{{issueProviderName}}: Imported {{issueStr}} \"{{issueTitle}}\"",
-        "ISSUE_DELETED_OR_CLOSED": "{{issueProviderName}}: {{issueStrC}} \"{{issueTitle}}\" seems to be deleted or closed",
-        "ISSUE_NO_UPDATE_REQUIRED": "{{issueProviderName}}: No update required",
-        "ISSUE_UPDATE_MULTIPLE": "{{issueProviderName}}: Updated data for {{nr}} {{issuesStr}}",
-        "ISSUE_UPDATE_SINGLE": "{{issueProviderName}}: Updated data for \"{{issueTitle}}\"",
-        "MANUAL_UPDATE_ISSUE_SUCCESS": "{{issueProviderName}}: Updated data for \"{{issueTitle}}\"",
-        "MISSING_ISSUE_DATA": "{{issueProviderName}}: Tasks with missing {{issueStr}} data found. Reloading.",
-        "NEW_COMMENT": "{{issueProviderName}}: New comment for \"{{issueTitle}}\"",
-        "POLLING_BACKLOG": "{{issueProviderName}}: Polling for new {{issuesStr}}",
-        "POLLING_CHANGES": "{{issueProviderName}}: Polling Changes for {{issuesStr}}"
+        "ERR_GENERIC": "{{issueProviderName}} שגיאה: {{errTxt}}",
+        "ERR_NETWORK": "{{issueProviderName}}: הבקשה נכשלה בשל שגיאת רשת בצד הלקוח",
+        "ERR_NOT_CONFIGURED": "{{issueProviderName}}: איננו מוגדר באופן תקין",
+        "IMPORTED_MULTIPLE_ISSUES": "{{issueProviderName}}: יובאו {{nr}} {{issuesStr}} חדשות",
+        "IMPORTED_SINGLE_ISSUE": "{{issueProviderName}}: יובאה {{issueStr}} \"{{issueTitle}}\"",
+        "ISSUE_DELETED_OR_CLOSED": "{{issueProviderName}}: {{issueStrC}} \"{{issueTitle}}\" נראית כנמחקה או סגורה",
+        "ISSUE_NO_UPDATE_REQUIRED": "{{issueProviderName}}: לא נדרש עדכון",
+        "ISSUE_UPDATE_MULTIPLE": "{{issueProviderName}}: הנתונים עודכנו עבור {{nr}} {{issuesStr}}",
+        "ISSUE_UPDATE_SINGLE": "{{issueProviderName}}: הנתונים עודכנו עבור \"{{issueTitle}}\"",
+        "MANUAL_UPDATE_ISSUE_SUCCESS": "{{issueProviderName}}: הנתונים עודכנו עבור \"{{issueTitle}}\"",
+        "MISSING_ISSUE_DATA": "{{issueProviderName}}: אותרו מטלות עם מידע חסר {{issueStr}}. טוענים מחדש.",
+        "NEW_COMMENT": "{{issueProviderName}}: הערה חדשה עבור \"{{issueTitle}}\"",
+        "POLLING_BACKLOG": "{{issueProviderName}}: סקירה עבור {{issuesStr}} חדשות",
+        "POLLING_CHANGES": "{{issueProviderName}}: סקירת שינויים עבור {{issuesStr}}"
       }
     },
     "JIRA": {
