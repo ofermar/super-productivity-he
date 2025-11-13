@@ -434,11 +434,11 @@
     },
     "JIRA": {
       "BANNER": {
-        "BLOCK_ACCESS_MSG": "Jira: To prevent shut out from api, access has been blocked by Super Productivity. You probably should check your jira settings!",
-        "BLOCK_ACCESS_UNBLOCK": "Unblock"
+        "BLOCK_ACCESS_MSG": "Jira: כדי למנוע נידוי מה-api, נחסמה הגישה על-ידי Super Productivity. ככל הנראה כדאי לבדוק את הגדרות jira שלך!",
+        "BLOCK_ACCESS_UNBLOCK": "שחרור החסימה"
       },
       "CFG_CMP": {
-        "ALWAYS_ASK": "Always open dialog",
+        "ALWAYS_ASK": "לשאול תמיד (פתיחת תיבת דו-שיח)",
         "DO_NOT": "Don't transition",
         "DONE": "Status for completing task",
         "ENABLE": "Enable Jira integration",
