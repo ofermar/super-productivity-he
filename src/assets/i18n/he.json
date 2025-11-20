@@ -439,33 +439,33 @@
       },
       "CFG_CMP": {
         "ALWAYS_ASK": "לשאול תמיד (פתיחת תיבת דו-שיח)",
-        "DO_NOT": "Don't transition",
-        "DONE": "Status for completing task",
-        "ENABLE": "Enable Jira integration",
-        "ENABLE_TRANSITIONS": "Enable Transition Handling",
-        "IN_PROGRESS": "Status for starting task",
-        "LOAD_SUGGESTIONS": "Load Suggestions",
-        "MAP_CUSTOM_FIELDS": "Load Story Points",
-        "MAP_CUSTOM_FIELDS_INFO": "Unfortunately some of Jira's data is saved under custom fields which are different for every installation. If you want to include this data you need to select the proper custom field for it. Currently there is only the story points field that needs to be mapped.",
-        "OPEN": "Status for pausing task",
-        "SELECT_ISSUE_FOR_TRANSITIONS": "Select issue to load available transitions",
-        "STORY_POINTS": "Story Points Field Name",
-        "TRANSITION": "Transition Handling"
+        "DO_NOT": "לא לבצע העברה",
+        "DONE": "המצב לסיום מטלה",
+        "ENABLE": "הפעלת שילוב Jira",
+        "ENABLE_TRANSITIONS": "הפעלת טיפול בהעברה",
+        "IN_PROGRESS": "המצב לתחילת מטלה",
+        "LOAD_SUGGESTIONS": "טעינת הצעות",
+        "MAP_CUSTOM_FIELDS": "טעינת נקודות סיפור",
+        "MAP_CUSTOM_FIELDS_INFO": "לרוע המזל חלק מנתוני Jira נשמר בשדות מותאמים שהם שונים בכל התקנה. אם ברצונך לכלול נתונים אלה יש לבחור את השדה המותאם המתאים לכך. כרגע נדרש למפות רק את שדה נקודות הסיפור.",
+        "OPEN": "המצב להשהיית מטלה",
+        "SELECT_ISSUE_FOR_TRANSITIONS": "בחירת סוגיה לטעינת המעברים הזמינים",
+        "STORY_POINTS": "שם שדה נקודות הסיפור",
+        "TRANSITION": "טיפול בהעברה"
       },
       "DIALOG_CONFIRM_ASSIGNMENT": {
-        "MSG": "<strong>{{summary}}</strong> is currently assigned to <strong>{{assignee}}</strong>. Do you want to assign it to yourself?",
-        "OK": "Do it!"
+        "MSG": "<strong>{{summary}}</strong> כרגע מוקצית ל<strong>{{assignee}}</strong>. האם ברצונך למנות את עצמך?",
+        "OK": "כן!"
       },
       "DIALOG_INITIAL": {
-        "TITLE": "Setup Jira for Project"
+        "TITLE": "הגדרת Jira לפרויקט"
       },
       "DIALOG_TRANSITION": {
-        "CHOOSE_STATUS": "Choose status to assign",
-        "CURRENT_ASSIGNEE": "Current Assignee:",
-        "CURRENT_STATUS": "Current Status:",
-        "TASK_NAME": "Task name:",
-        "TITLE": "Jira: Update Status",
-        "UPDATE_STATUS": "Update Status"
+        "CHOOSE_STATUS": "בחירת המצב שיוחל",
+        "CURRENT_ASSIGNEE": "הממונה הנוכחי:",
+        "CURRENT_STATUS": "המצב הנוכחי:",
+        "TASK_NAME": "שם המטלה:",
+        "TITLE": "Jira: עדכון המצב",
+        "UPDATE_STATUS": "עדכון המצב"
       },
       "DIALOG_WORKLOG": {
         "CHECKBOXES": {
